@@ -35,6 +35,8 @@ class ViewController2: UIViewController,UITableViewDataSource,UITableViewDelegat
     
     }
     
+    
+    
 
     var Azkars = Array<Azkar>()
     
